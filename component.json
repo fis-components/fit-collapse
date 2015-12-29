@@ -1,0 +1,9 @@
+{
+    "name": "fit-collapse",
+    "description": "collapse panel",
+    "repos": "https://github.com/tb-component/collapse.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "0.1.0"
+}
