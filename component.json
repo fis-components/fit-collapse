@@ -5,5 +5,8 @@
     "main": "index.js",
     "tag": "master",
     "reposType": "npm",
-    "version": "0.1.15"
+    "version": "0.1.22",
+    "paths": {
+        "dist": "."
+    }
 }
